@@ -1,0 +1,5 @@
+# all .gradle-directories
+.gradle/
+
+# backups
+*~
